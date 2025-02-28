@@ -1,1 +1,1 @@
-# Proyecto2Mineria
+# Proyecto1Mineria
